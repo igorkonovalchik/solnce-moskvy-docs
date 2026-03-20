@@ -1,4 +1,4 @@
-title: "Солнце Москвы — Документация проекта"
+title: "Проект Солнце Москвы"
 description: "Материалы исследования и ТЗ для редизайна moscow-sun.ru"
 theme: just-the-docs
 
@@ -6,7 +6,10 @@ url: "https://igorkonovalchik.github.io"
 baseurl: "/solnce-moskvy-docs"
 
 aux_links:
+  "REDLOFT.RU": "https://redloft.ru"
   "moscow-sun.ru": "https://moscow-sun.ru"
+
+aux_links_new_tab: true
 
 color_scheme: light
 
@@ -17,7 +20,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Наверх"
 
-footer_content: "Проект «Солнце Москвы» · Документация 2026"
+footer_content: "Подготовлено агентством <a href=\"https://redloft.ru\">REDLOFT.RU</a> · 2026"
 
 plugins:
   - jekyll-seo-tag

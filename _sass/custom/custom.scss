@@ -1,0 +1,14 @@
+// Уменьшенный заголовок в навбаре
+.site-title {
+  font-size: 13px !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.03em;
+  opacity: 0.75;
+  text-transform: uppercase;
+}
+
+// Ссылка REDLOFT в aux_links — выделяем чуть заметнее
+.aux-nav-list-item:first-child a {
+  font-weight: 600;
+  opacity: 0.9;
+}
