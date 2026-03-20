@@ -185,7 +185,7 @@ moscow-sun.ru
 
 ## Таблица оценки работ
 
-👉 **[Ссылка на Google Таблицу]** *(вставить)*
+👉 **[Открыть таблицу оценки (Google Sheets)](https://docs.google.com/spreadsheets/d/1juQEURlhrB9VXaLwgKVz6i8_g_xXtoTF/edit?usp=sharing&ouid=113610572251332544106&rtpof=true&sd=true)**
 
 В таблице: все страницы (существующие + новые), описания, объёмы, оценки по ролям.
 
